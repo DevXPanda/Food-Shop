@@ -39,5 +39,5 @@ Check out the repository on GitHub: [DevXPanda/Food-Shop](https://github.com/Dev
    cd Food-Shop
    ```
 
-VITE_SUPABASE_URL=your-supabase-url
-VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+    VITE_SUPABASE_URL=your-supabase-url
+    VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
